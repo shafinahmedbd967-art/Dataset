@@ -1,0 +1,75 @@
+match_no,date,team1,team2,venue,city,toss_winner,toss_decision,team1_score,team1_wickets,team1_overs,team2_score,team2_wickets,team2_overs,winner,win_by_type,win_by_margin,match_type,player_of_match
+1,2025-03-22,KKR,RCB,Eden Gardens,Kolkata,RCB,field,174,8,20.0,177,3,16.2,RCB,wickets,7,League,Virat Kohli
+2,2025-03-23,SRH,RR,Rajiv Gandhi Stadium,Hyderabad,RR,field,286,6,20.0,242,6,20.0,SRH,runs,44,League,Travis Head
+3,2025-03-23,MI,CSK,Wankhede Stadium,Mumbai,CSK,field,155,9,20.0,158,6,19.1,MI,wickets,4,League,Hardik Pandya
+4,2025-03-24,LSG,DC,Ekana Cricket Stadium,Lucknow,DC,field,209,8,20.0,211,9,19.3,DC,wickets,1,League,Axar Patel
+5,2025-03-25,PBKS,GT,Maharaja Yadavindra Singh Stadium,Mullanpur,GT,field,243,5,20.0,232,5,20.0,PBKS,runs,11,League,Priyansh Arya
+6,2025-03-26,RR,KKR,Sawai Mansingh Stadium,Jaipur,KKR,field,151,9,20.0,153,2,17.3,RR,wickets,8,League,Sanju Samson
+7,2025-03-27,SRH,LSG,Rajiv Gandhi Stadium,Hyderabad,LSG,field,190,9,20.0,193,5,16.1,LSG,wickets,5,League,Nicholas Pooran
+8,2025-03-28,RCB,CSK,M. Chinnaswamy Stadium,Bengaluru,CSK,field,196,7,20.0,146,8,20.0,RCB,runs,50,League,Rajat Patidar
+9,2025-03-29,GT,MI,Narendra Modi Stadium,Ahmedabad,MI,field,196,8,20.0,160,6,20.0,GT,runs,36,League,Shubman Gill
+10,2025-03-30,SRH,DC,Rajiv Gandhi Stadium,Hyderabad,SRH,bat,163,10,18.4,166,3,16.0,DC,wickets,7,League,Jake Fraser-McGurk
+11,2025-03-30,RR,CSK,Sawai Mansingh Stadium,Jaipur,CSK,field,182,9,20.0,176,6,20.0,RR,runs,6,League,Riyan Parag
+12,2025-03-31,KKR,MI,Eden Gardens,Kolkata,MI,field,116,10,16.2,121,2,12.5,MI,wickets,8,League,Suryakumar Yadav
+13,2025-04-01,LSG,PBKS,Ekana Cricket Stadium,Lucknow,PBKS,field,171,7,20.0,177,2,16.2,PBKS,wickets,8,League,Shreyas Iyer
+14,2025-04-02,RCB,GT,M. Chinnaswamy Stadium,Bengaluru,GT,field,169,8,20.0,170,2,17.5,GT,wickets,8,League,Sai Sudharsan
+15,2025-04-03,KKR,SRH,Eden Gardens,Kolkata,SRH,field,200,6,20.0,120,10,16.4,KKR,runs,80,League,Varun Chakaravarthy
+16,2025-04-04,LSG,MI,Ekana Cricket Stadium,Lucknow,MI,field,203,8,20.0,191,5,20.0,LSG,runs,12,League,Rishabh Pant
+17,2025-04-05,DC,CSK,Arun Jaitley Stadium,Delhi,CSK,field,183,6,20.0,158,5,20.0,DC,runs,25,League,Axar Patel
+18,2025-04-06,RR,PBKS,Sawai Mansingh Stadium,Jaipur,PBKS,field,177,5,20.0,186,4,20.0,PBKS,runs,10,League,Shreyas Iyer
+19,2025-04-06,SRH,GT,Rajiv Gandhi Stadium,Hyderabad,GT,field,195,7,20.0,157,10,18.0,GT,runs,38,League,Sai Sudharsan
+20,2025-04-07,RCB,MI,M. Chinnaswamy Stadium,Bengaluru,MI,field,201,6,20.0,189,7,20.0,RCB,runs,12,League,Phil Salt
+21,2025-04-08,LSG,KKR,Ekana Cricket Stadium,Lucknow,KKR,field,163,7,20.0,159,9,20.0,LSG,runs,4,League,Rishabh Pant
+22,2025-04-09,PBKS,CSK,Maharaja Yadavindra Singh Stadium,Mullanpur,CSK,field,215,5,20.0,197,8,20.0,PBKS,runs,18,League,Shreyas Iyer
+23,2025-04-10,GT,RR,Narendra Modi Stadium,Ahmedabad,RR,field,228,4,20.0,170,10,17.0,GT,runs,58,League,Shubman Gill
+24,2025-04-11,RCB,DC,M. Chinnaswamy Stadium,Bengaluru,DC,field,221,5,20.0,215,7,20.0,RCB,wickets,6,League,Virat Kohli
+25,2025-04-12,CSK,KKR,M. A. Chidambaram Stadium,Chennai,KKR,field,176,5,20.0,178,2,17.5,KKR,wickets,8,League,Ajinkya Rahane
+26,2025-04-13,GT,LSG,Narendra Modi Stadium,Ahmedabad,LSG,field,218,4,20.0,185,9,20.0,LSG,wickets,6,League,Nicholas Pooran
+27,2025-04-13,PBKS,SRH,Maharaja Yadavindra Singh Stadium,Mullanpur,SRH,field,231,3,20.0,175,7,20.0,PBKS,runs,8,League,Arshdeep Singh
+28,2025-04-14,RR,RCB,Sawai Mansingh Stadium,Jaipur,RCB,field,167,5,20.0,178,1,16.2,RCB,wickets,9,League,Devdutt Padikkal
+29,2025-04-15,MI,DC,Wankhede Stadium,Mumbai,DC,field,220,3,20.0,161,9,20.0,MI,runs,59,League,Rohit Sharma
+30,2025-04-16,LSG,CSK,Ekana Cricket Stadium,Lucknow,CSK,field,185,7,20.0,180,8,20.0,CSK,wickets,5,League,MS Dhoni
+31,2025-04-17,PBKS,KKR,Maharaja Yadavindra Singh Stadium,Mullanpur,KKR,field,208,4,20.0,192,8,20.0,PBKS,runs,16,League,Priyansh Arya
+32,2025-04-18,DC,RR,Arun Jaitley Stadium,Delhi,RR,field,203,5,20.0,204,4,19.4,DC,SuperOver,1,League,Jake Fraser-McGurk
+33,2025-04-19,SRH,MI,Rajiv Gandhi Stadium,Hyderabad,MI,field,175,8,20.0,179,3,18.0,MI,wickets,7,League,Suryakumar Yadav
+34,2025-04-20,RCB,PBKS,M. Chinnaswamy Stadium,Bengaluru,PBKS,field,189,6,20.0,194,2,17.4,PBKS,wickets,5,League,Shreyas Iyer
+35,2025-04-20,DC,GT,Arun Jaitley Stadium,Delhi,GT,field,163,9,20.0,164,0,13.3,GT,wickets,10,League,Shubman Gill
+36,2025-04-21,LSG,RR,Ekana Cricket Stadium,Lucknow,RR,field,192,5,20.0,190,6,20.0,LSG,runs,2,League,Rishabh Pant
+37,2025-04-22,PBKS,RCB,Maharaja Yadavindra Singh Stadium,Mullanpur,RCB,field,208,4,20.0,203,7,20.0,PBKS,runs,5,League,Arshdeep Singh
+38,2025-04-23,CSK,MI,M. A. Chidambaram Stadium,Chennai,MI,field,176,7,20.0,180,3,19.0,MI,wickets,4,League,Hardik Pandya
+39,2025-04-24,GT,KKR,Narendra Modi Stadium,Ahmedabad,KKR,field,218,5,20.0,179,9,20.0,GT,runs,39,League,Sai Sudharsan
+40,2025-04-25,LSG,DC,Ekana Cricket Stadium,Lucknow,DC,field,197,6,20.0,189,8,20.0,DC,wickets,8,League,Axar Patel
+41,2025-04-26,SRH,MI,Rajiv Gandhi Stadium,Hyderabad,MI,field,183,6,20.0,176,9,20.0,MI,wickets,4,League,Suryakumar Yadav
+42,2025-04-27,RCB,RR,M. Chinnaswamy Stadium,Bengaluru,RR,field,214,4,20.0,203,7,20.0,RCB,runs,11,League,Virat Kohli
+43,2025-04-27,CSK,SRH,M. A. Chidambaram Stadium,Chennai,SRH,field,165,7,20.0,170,5,18.4,SRH,wickets,5,League,Heinrich Klaasen
+44,2025-04-28,PBKS,KKR,Maharaja Yadavindra Singh Stadium,Mullanpur,KKR,bat,180,5,20.0,160,9,20.0,KKR,runs,1,League,Sunil Narine
+45,2025-04-29,DC,GT,Arun Jaitley Stadium,Delhi,GT,field,178,5,20.0,168,8,20.0,DC,wickets,6,League,Jake Fraser-McGurk
+46,2025-04-30,LSG,RR,Ekana Cricket Stadium,Lucknow,RR,field,168,7,20.0,170,4,18.5,RR,wickets,8,League,Yashasvi Jaiswal
+47,2025-05-01,PBKS,RCB,Maharaja Yadavindra Singh Stadium,Mullanpur,RCB,field,211,5,20.0,206,7,20.0,PBKS,runs,37,League,Yuzvendra Chahal
+48,2025-05-02,CSK,MI,M. A. Chidambaram Stadium,Chennai,MI,field,190,6,20.0,194,4,19.0,CSK,wickets,4,League,MS Dhoni
+49,2025-05-03,GT,KKR,Narendra Modi Stadium,Ahmedabad,KKR,field,205,6,20.0,185,9,20.0,GT,runs,20,League,Sai Sudharsan
+50,2025-05-04,SRH,DC,Rajiv Gandhi Stadium,Hyderabad,DC,bat,190,5,20.0,183,7,20.0,SRH,runs,7,League,Travis Head
+51,2025-05-04,RR,CSK,Sawai Mansingh Stadium,Jaipur,CSK,field,195,5,20.0,189,8,20.0,CSK,wickets,6,League,Ravindra Jadeja
+52,2025-05-05,KKR,MI,Eden Gardens,Kolkata,MI,field,198,5,20.0,190,6,20.0,MI,wickets,8,League,Rohit Sharma
+53,2025-05-06,LSG,PBKS,Ekana Cricket Stadium,Lucknow,PBKS,field,188,6,20.0,196,3,17.5,PBKS,wickets,8,League,Shreyas Iyer
+54,2025-05-07,RCB,GT,M. Chinnaswamy Stadium,Bengaluru,GT,bat,172,8,20.0,180,2,18.0,GT,wickets,8,League,Shubman Gill
+55,2025-05-08,KKR,SRH,Eden Gardens,Kolkata,SRH,field,225,4,20.0,115,10,13.0,KKR,runs,110,League,Varun Chakaravarthy
+56,2025-05-08,LSG,MI,Ekana Cricket Stadium,Lucknow,MI,field,180,7,20.0,168,8,20.0,MI,runs,54,League,Hardik Pandya
+57,2025-05-09,DC,CSK,Arun Jaitley Stadium,Delhi,CSK,field,175,6,20.0,157,8,20.0,DC,runs,18,League,Faf du Plessis
+58,2025-05-09,PBKS,GT,Maharaja Yadavindra Singh Stadium,Mullanpur,GT,field,0,0,0.0,0,0,0.0,Abandoned,NA,0,League,NA
+59,2025-05-17,RR,RCB,ACA Cricket Stadium,Guwahati,RCB,field,178,6,20.0,179,1,17.4,RCB,wickets,9,League,Devdutt Padikkal
+60,2025-05-17,SRH,LSG,Rajiv Gandhi Stadium,Hyderabad,LSG,field,185,6,20.0,180,6,20.0,SRH,wickets,6,League,Heinrich Klaasen
+61,2025-05-18,KKR,RCB,Eden Gardens,Kolkata,RCB,bat,0,0,0.0,0,0,0.0,Abandoned,NA,0,League,NA
+62,2025-05-18,DC,MI,ACA-VDCA Cricket Stadium,Visakhapatnam,MI,field,175,7,20.0,163,8,20.0,MI,runs,12,League,Rohit Sharma
+63,2025-05-20,GT,RR,Narendra Modi Stadium,Ahmedabad,RR,field,216,4,20.0,168,6,20.0,GT,runs,48,League,Sai Sudharsan
+64,2025-05-21,CSK,KKR,M. A. Chidambaram Stadium,Chennai,KKR,field,193,4,20.0,194,2,18.4,KKR,wickets,2,League,Ajinkya Rahane
+65,2025-05-23,SRH,RCB,Ekana Cricket Stadium,Lucknow,RCB,field,231,6,20.0,189,10,19.5,SRH,runs,42,League,Pat Cummins
+66,2025-05-24,PBKS,RR,Sawai Mansingh Stadium,Jaipur,PBKS,field,210,4,20.0,200,7,20.0,PBKS,runs,10,League,Shreyas Iyer
+67,2025-05-25,DC,LSG,ACA-VDCA Cricket Stadium,Visakhapatnam,LSG,field,192,5,20.0,184,8,20.0,DC,runs,8,League,Jake Fraser-McGurk
+68,2025-05-25,MI,GT,Wankhede Stadium,Mumbai,GT,bat,189,7,20.0,192,4,18.4,GT,wickets,3,League,Sai Sudharsan
+69,2025-05-26,RCB,SRH,M. Chinnaswamy Stadium,Bengaluru,SRH,field,228,4,20.0,198,9,20.0,RCB,runs,30,League,Virat Kohli
+70,2025-05-27,PBKS,MI,Maharaja Yadavindra Singh Stadium,Mullanpur,MI,field,214,4,20.0,168,9,20.0,PBKS,runs,46,League,Yuzvendra Chahal
+71,2025-05-29,PBKS,RCB,Maharaja Yadavindra Singh Stadium,Mullanpur,PBKS,field,163,9,20.0,164,3,18.2,RCB,wickets,7,Qualifier1,Krunal Pandya
+72,2025-05-30,GT,MI,Maharaja Yadavindra Singh Stadium,Mullanpur,GT,field,185,7,20.0,183,8,20.0,MI,wickets,4,Eliminator,Suryakumar Yadav
+73,2025-06-01,PBKS,MI,Narendra Modi Stadium,Ahmedabad,PBKS,bat,207,5,20.0,170,9,20.0,PBKS,runs,37,Qualifier2,Shreyas Iyer
+74,2025-06-03,RCB,PBKS,Narendra Modi Stadium,Ahmedabad,PBKS,field,190,9,20.0,184,7,20.0,RCB,runs,6,Final,Krunal Pandya
